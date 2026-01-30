@@ -38,3 +38,5 @@ def expenses():
 
     print(f"Number of expenses: {len(expense_list)}")
     print(f"Total amount spent:₹{total:.2f}")
+
+expenses()
